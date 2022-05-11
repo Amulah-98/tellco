@@ -1,1 +1,1 @@
-# tellco
+# user analytics in the telecomm industry
